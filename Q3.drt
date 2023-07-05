@@ -1,0 +1,11 @@
+void main() {
+  int number = 17;
+
+  if ((number % 2) == 0 && (number == 1)) 
+  {
+    print("$number is not a Prime Number");
+  } 
+  else {
+    print("$number is a Prime Number");
+  }
+}
